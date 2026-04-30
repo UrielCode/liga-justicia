@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ### Acrulizado des github
 Este es un mensaje editado desde Github
+
+## Actulización 2.0
+Este es otro mensaje editado desde github
